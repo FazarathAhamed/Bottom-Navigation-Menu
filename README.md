@@ -14,15 +14,6 @@ The objective is simple: **dodge incoming cars and survive as long as possible**
 
 ---
 
-## 🖼️ Screenshots
-
-![Gameplay Screenshot 1](https://via.placeholder.com/360x640.png?text=Top-Down+Car+Dodger)
-![Gameplay Screenshot 2](https://via.placeholder.com/360x640.png?text=Score+HUD+Example)
-
-> Tip: Replace these placeholder images with your own game screenshots.  
-
----
-
 ## 🧩 Features
 
 - Smooth top-down gameplay
