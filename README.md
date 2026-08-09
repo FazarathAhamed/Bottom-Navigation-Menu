@@ -37,7 +37,8 @@ No build tools or installs required.
 
 ## Preview
 
-*(Add a screenshot or short GIF of the nav bar here)*
+*<img width="1849" height="955" alt="image" src="https://github.com/user-attachments/assets/67657c3e-35de-436a-93c4-f74450094eba" />
+*
 
 ## Possible Improvements
 
